@@ -5,3 +5,6 @@ target
 .bpmn
 .idea
 *.iml
+.project
+.classpath
+/.settings
